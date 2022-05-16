@@ -161,10 +161,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="0" x2="10" y2="0" width="0" layer="20"/>
-<wire x1="10" y1="0" x2="10" y2="105.95" width="0" layer="20"/>
+<wire x1="0" y1="7" x2="10" y2="7" width="0" layer="20"/>
+<wire x1="10" y1="7" x2="10" y2="105.95" width="0" layer="20"/>
 <wire x1="10" y1="105.95" x2="0" y2="105.95" width="0" layer="20"/>
-<wire x1="0" y1="105.95" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="0" y1="105.95" x2="0" y2="7" width="0" layer="20"/>
 <text x="1.66" y="78.585" size="0.8" layer="21" font="vector" ratio="14" rot="R90"> JLCJLCJLCJLC</text>
 </plain>
 <libraries>
@@ -745,14 +745,14 @@ by exp-lbrs.ulp</description>
 <polygon width="0.1524" layer="1">
 <vertex x="0" y="106.045"/>
 <vertex x="10" y="106.045"/>
-<vertex x="10" y="0"/>
-<vertex x="0" y="0"/>
+<vertex x="10" y="7.05"/>
+<vertex x="0" y="7.05"/>
 </polygon>
 <polygon width="0.1524" layer="16">
 <vertex x="0" y="106.045"/>
 <vertex x="9.905" y="106.045"/>
-<vertex x="9.905" y="0"/>
-<vertex x="0" y="0"/>
+<vertex x="9.905" y="7.15"/>
+<vertex x="0" y="7.15"/>
 </polygon>
 <contactref element="U1" pad="3"/>
 <contactref element="U2" pad="4"/>
